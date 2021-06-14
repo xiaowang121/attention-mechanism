@@ -22,7 +22,7 @@
 		COCO2017 (https://cocodataset.org/#download)
 		The image name (* txt file) of the used dataset and the processing method 
 for converting the COCO dataset into a semantic partitioned dataset are placed in the data_deal folder.
-	
+	And, you need to install "cocoapi" toolkit.
 	Medical image segmentation datasets:
 		ISIC2018 (It is available in the ISIC2018_datasets folder)
 		Liver （It is available in the Liver_datasets folder）
